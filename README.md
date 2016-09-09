@@ -1,5 +1,7 @@
 # GraphQL-compose
 
+[![Join the chat at https://gitter.im/graphql-compose/Lobby](https://badges.gitter.im/graphql-compose/Lobby.svg)](https://gitter.im/graphql-compose/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 `GraphQL-compose` is an instrument which allows you to construct flexible graphql schema from different data sources via plugins. The main aim of `graphql-compose` to solve the problem of mash code in schema's files, and ridiculously simplify schema build process on server.
 
 Compose your GraphQL schema in declarative way: 
